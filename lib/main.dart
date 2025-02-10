@@ -7,7 +7,7 @@ void main() => runApp(
           appBar:
               AppBar(title: Text('Hello Salem'), backgroundColor: Colors.blue),
           body: Center(
-            child: Image(image: AssetImage('images/rich.png')),
+            child: Image(image: AssetImage('assets/images/rich.png')),
           ),
         ),
       ),
